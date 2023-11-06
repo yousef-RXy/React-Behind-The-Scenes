@@ -23,7 +23,6 @@ function App() {
 					key={chosenCount}
 					initialCount={chosenCount}
 				/>
-				<Counter initialCount={0} />
 			</main>
 		</>
 	);
